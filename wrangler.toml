@@ -4,5 +4,5 @@ compatibility_date = "2024-06-14"
 
 [[d1_databases]]
 binding = "DB" # available in your Worker on env.DB
-database_name = "waline-db"
-database_id = "9137d1d8-7c46-4a39-b5f8-3fdb86022cc8"
+database_name = "web_analytics"
+database_id = "a55f43d8-de81-4b47-942c-d096f0191bfb"
